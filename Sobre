@@ -1,0 +1,7 @@
+Produto
+
+  A classe faz movimentação de seu estoque quando o usuário escolhe o produto, sua quantidade e se deseja retirá-lo do carrinho, mostrando ao final o total de determinado produto que ficou no carrinho.
+
+  Deverá aparecer uma mensagem caso o estoque esteja abaixo do mínimo estipulado e quando a quantidade de estoque for insuficiente. Haverá também o cálculo do capital mobilizado, que será o total do estoque de um produto vezes o seu preço.
+
+  O estoque nunca pode ser negativo e deve ser emitido um alerta caso atinja ou fique abaixo do mínimo estipulado.
